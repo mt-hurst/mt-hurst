@@ -5,6 +5,7 @@
   - source files for Scientific Instrumentation Final Project
 - 540-315-8926
 - mthurst@wm.edu
+- TTH25@pitt.edu
 
 <!---
 mt-hurst/mt-hurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
